@@ -1,0 +1,39 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "F:\\Nonceblox\\Assignment\\Contracts\\Nonceblox.sol": {
+      "lastModificationDate": 1635318981802,
+      "contentHash": "ffbce3145259b0bac0ee3fa1c735cdd9",
+      "sourceName": "Contracts/Nonceblox.sol",
+      "solcConfig": {
+        "version": "0.8.3",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.3"
+      ],
+      "artifacts": [
+        "Nonceblox"
+      ]
+    }
+  }
+}
